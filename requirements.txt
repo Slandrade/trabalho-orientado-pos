@@ -1,0 +1,12 @@
+openai>=1.50
+python-dotenv>=1.0
+pydantic>=2.7
+pillow>=10.1
+pandas>=2.0
+# Encontro 3: interfaces, PDFs e voz
+gradio>=6.0
+pymupdf>=1.24
+edge-tts>=7.0
+streamlit>=1.40
+# Opcional (demonstração do professor, aprofundado no Encontro 4):
+# pydantic-ai-slim[openai]>=1.0
